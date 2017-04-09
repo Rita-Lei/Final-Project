@@ -10,15 +10,15 @@ I plan to create a LEDs annd Lamps controlled by sound. I'll use a sound sensor 
 
 ## Component Parts
 
-Arduino Board
-Relay Module 
-LED Strip 5M 
-LED Adapter 
-9V Battery 
-F to F Jumper 
-M to M Jumper 
-Breadboard 
-Battery Cable 
+- Arduino Board
+- Relay Module 
+- LED Strip 5M 
+- LED Adapter 
+- 9V Battery 
+- F to F Jumper 
+- M to M Jumper 
+- Breadboard 
+- Battery Cable 
 
 
 ## Challenges
