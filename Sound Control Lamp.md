@@ -39,3 +39,8 @@ What parts of the project do you anticipate you will complete in each of the nex
 
 http://www.instructables.com/id/Turn-on-and-Off-a-Lamp-Clapping-Twice-Using-Arduin/?ALLSTEPS
 https://www.youtube.com/watch?v=y8u6RfpjrUQ
+https://www.youtube.com/watch?v=OVQOdcGCzJQ&t=11s
+https://www.youtube.com/watch?v=y8u6RfpjrUQ&t=1s
+https://www.youtube.com/watch?v=UUhlI09AaRY&t=330s
+https://www.youtube.com/watch?v=OVQOdcGCzJQ
+https://www.youtube.com/watch?v=bvvnRSeSdKI&t=6s
