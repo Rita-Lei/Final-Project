@@ -16,6 +16,7 @@ If I had one more chance to do this project, I would like to use more sensors, s
 5. The physical connection.
  
 Here are tutorials and references I used:
+
 http://tutorial.cytron.com.my/2015/03/15/lighting-up-rgb-led-strip-arduino/
 http://www.instructables.com/id/Turn-on-and-Off-a-Lamp-Clapping-Twice-Using-Arduin/?ALLSTEPS
 https://www.youtube.com/watch?v=y8u6RfpjrUQ
