@@ -22,7 +22,7 @@ I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sou
 - U-Sky Double-ended Test Leads Alligator Crocodile Roach Clip 19 1/2'' Jumper Wire for Arduino MCU Experiment Test Wire Cable Harness
 ## Challenges
 
-How to connect the RGB LED with the transtors and how to run the code in Adurino.
+How to connect the RGB LED with the transitors and how to run the code in Adurino.
 
 ## Timeline
 
