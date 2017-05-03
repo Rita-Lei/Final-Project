@@ -1,12 +1,13 @@
-# the Blinding RGB LED Control By Music I played
+# Blinking With Music
 
-The RGB LED Strip will blind based on the music I play.
+
+The RGB LED Strip will blink based on the music I play.
 
 
 
 ## Summary
 
-I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sound detection sensor (a microphone sensor) to detect the music, and use coding in Arduino to turn on or turn off the LED strip.
+I plan to create a RGB LED Strip, blinking with the music I play. I'll use a sound detection sensor (a microphone sensor) to detect the music, and use coding in Arduino to turn on or turn off the LED strip.
 
 ## Component Parts
 
@@ -19,6 +20,8 @@ I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sou
 - Trasistor * 3
 - Jumper Wire
 - Wires
+- Resistors
+- Small LED
 - U-Sky Double-ended Test Leads Alligator Crocodile Roach Clip 19 1/2'' Jumper Wire for Arduino MCU Experiment Test Wire Cable Harness
 ## Challenges
 
