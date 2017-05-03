@@ -6,7 +6,7 @@ The RGB LED Strip will blind based on the music I play.
 
 ## Summary
 
-I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sound detection sensor (a microphone senser) to detect the music, and use coding in Arduino to turn on or turn off the LED strip.
+I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sound detection sensor (a microphone sensor) to detect the music, and use coding in Arduino to turn on or turn off the LED strip.
 
 ## Component Parts
 
@@ -22,7 +22,7 @@ I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sou
 - U-Sky Double-ended Test Leads Alligator Crocodile Roach Clip 19 1/2'' Jumper Wire for Arduino MCU Experiment Test Wire Cable Harness
 ## Challenges
 
-How to connect the RGB LED with the transitors and how to run the code in Arduino.
+How to connect the RGB LED strip with the transistors and how to run the code in Arduino.
 
 ## Timeline
 
