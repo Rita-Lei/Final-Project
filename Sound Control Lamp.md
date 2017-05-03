@@ -1,29 +1,28 @@
-# Sound Control Lamp
+# the Blinding RGB LED Control By Music I played
 
-Turn on the LEDs and Lamps with a clap (relay and sound sensor)
+The RGB LED Strip will blind based on the music I play.
 
 
 
 ## Summary
 
-I plan to create a LEDs annd Lamps controlled by sound. I'll use a sound sensor and a relay module for this.
+I plan to create a RGB LED Strip, blinding with the music I play. I'll use a sound detection sensor (a microphone senser) to detect the music, and use coding in Arduino to turn on or turn off the LED strip.
 
 ## Component Parts
 
 - Arduino Board
-- Relay Module 
-- LED Strip 5M 
-- LED Adapter 
-- 9V Battery 
-- F to F Jumper 
-- M to M Jumper 
 - Breadboard 
-- Battery Cable 
-
-
+- RGB LED Strip 5M 
+- LED Adapter 
+- 12V Battery 
+- Sound Dectection Sensor (Microphone Sensor)
+- Trasistor * 3
+- Jumper Wire
+- Wires
+- U-Sky Double-ended Test Leads Alligator Crocodile Roach Clip 19 1/2'' Jumper Wire for Arduino MCU Experiment Test Wire Cable Harness
 ## Challenges
 
-How to connect these compenents together and run the code
+How to connect the RGB LED with the transtors and how to run the code in Adurino.
 
 ## Timeline
 
@@ -37,6 +36,7 @@ What parts of the project do you anticipate you will complete in each of the nex
 
 ## References and link
 
+http://tutorial.cytron.com.my/2015/03/15/lighting-up-rgb-led-strip-arduino/
 http://www.instructables.com/id/Turn-on-and-Off-a-Lamp-Clapping-Twice-Using-Arduin/?ALLSTEPS
 https://www.youtube.com/watch?v=y8u6RfpjrUQ
 https://www.youtube.com/watch?v=OVQOdcGCzJQ&t=11s
