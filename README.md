@@ -1,5 +1,5 @@
 # Final-Project
-In my final project, I made a blinking RGB LED controlled by the sound. I used a sound detection sensor (a microphone sensor) to detect the volume of the sound. And three transistors for the three LEDs. The Red LED would blink based on the sound. While the Green LED and the Blue LED won't be influenced by the sound.
+In my final project, I made a blinking RGB LED controlled by the sound. I used a sound detection sensor (a microphone sensor) to detect the volume of the sound. And three transistors for the RGB LED. The Red LED would blink based on the sound. While the Green LED and the Blue LED won't be influenced by the sound.
 
 The ideas is that I want to help deaf people to notice the danger, such as fire alarm. I use Red LED to represent the signal of the danger. The green and blue LED represent that they are safe. If the fire alarm is on, the sound will be detected by the microphone sensor, and then the Red LED will blink, sending the danger signal to the users.
 
