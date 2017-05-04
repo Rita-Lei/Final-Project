@@ -40,3 +40,5 @@ https://www.youtube.com/watch?v=y8u6RfpjrUQ&t=1s
 https://www.youtube.com/watch?v=UUhlI09AaRY&t=330s
 https://www.youtube.com/watch?v=OVQOdcGCzJQ
 https://www.youtube.com/watch?v=bvvnRSeSdKI&t=6s
+
+![rita lei 1](https://cloud.githubusercontent.com/assets/25290975/25705535/76cd8b34-3092-11e7-8340-b2bd53a62c4a.jpg)
