@@ -1,4 +1,4 @@
-# Danger Detector LED
+# Danger Detector LED (Proposal)
 
 
 The Red LED Strip will blink based on the sound, such as fire alarm, sending the danger signal to deaf people. While the Blue and Green LEDs represent that the situation is safe.
