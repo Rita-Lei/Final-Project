@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=bvvnRSeSdKI&t=6s
 
 ## The code I used:
 
+<img width="438" alt="code" src="https://cloud.githubusercontent.com/assets/25290975/25705926/ca481c10-3093-11e7-83d2-736b3c82f5eb.png">
 
 
 ## The final pictures:
